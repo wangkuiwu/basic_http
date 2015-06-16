@@ -1,0 +1,13 @@
+
+*.[sS]
+*.[Oo]
+*.a
+*.swp
+*.vim
+*.tgz
+*.out
+*.class
+
+
+build/
+.gradle/
